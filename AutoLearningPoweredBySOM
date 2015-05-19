@@ -1,4 +1,4 @@
-## The unsupervised learning aspect of the PAT mainframe is based off of Self-Organizing Maps or SOM by Paras Chopra
+## The unsupervised learning aspect of the PAT mainframe is based off of Self-Organizing Maps or SOM by Paras Chopra.
 
 from random import *
 from math import *

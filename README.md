@@ -1,5 +1,5 @@
 # PAT
-'The original AI of the PAT mainframe'
+'The original AI of the Unity mainframe'
 
 This is a program of LogTronics and is an AI written in Python.
 
@@ -7,5 +7,5 @@ This is a program of LogTronics and is an AI written in Python.
 
 Status:{Incomplete}
 
-# What is PAT's purpose?
-"PAT" our personal computer assistant has administrative privileges to help you out whenever possible
+# What is Unity's purpose?
+"Unity" our personal computer assistant has administrative privileges to help you out whenever possible
